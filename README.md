@@ -1,3 +1,3 @@
 # testrepo
 
-just for test.
+just for study github test.
